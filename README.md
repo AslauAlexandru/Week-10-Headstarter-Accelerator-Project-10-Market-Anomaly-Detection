@@ -12,10 +12,10 @@ currently Co-Founder & CEO of Nucleo Research and an AI Researcher at Stanford. 
 
 **Project Requirements:**
 
-- Milestone 1: Develop an anomaly detection model using either [this provided dataset]( https://docs.google.com/spreadsheets/d/1JTyt47mka5DSX3mX9VQTxZaIEQd6OVm9/edit?gid=1235822571#gid=1235822571)
+- **Milestone 1:** Develop an anomaly detection model using either [this provided dataset]( https://docs.google.com/spreadsheets/d/1JTyt47mka5DSX3mX9VQTxZaIEQd6OVm9/edit?gid=1235822571#gid=1235822571)
  or your own to classify market crashes. This is a binary output: crash or no crash. Perform statistical research to select and implement the most effective machine learning model for the task, such as logistic regression, neural networks, etc.
-- Milestone 2: Enhance the system by proposing a data-driven investment strategy based on the model’s predictions, focusing on minimizing losses or maximizing returns.
-- Milestone 3: Design and integrate an AI-driven bot to explain the investment strategy to end users, making it accessible and actionable.
+- **Milestone 2:** Enhance the system by proposing a data-driven investment strategy based on the model’s predictions, focusing on minimizing losses or maximizing returns.
+- **Milestone 3:** Design and integrate an AI-driven bot to explain the investment strategy to end users, making it accessible and actionable.
 
 
 ## Resources
