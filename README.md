@@ -1,7 +1,6 @@
 # Week 10 Headstarter Accelerator Project 10 Market Anomaly Detection
 
-Market Anomaly Detection
-For this project, you will be building a machine learning model to identify anomalies in financial markets.
+Market Anomaly Detection. For this project, you will be building a machine learning model to identify anomalies in financial markets.
 
 
 This project is brought to you by [Angelica Iacovelli]( https://www.linkedin.com/authwall?trk=gf&trkInfo=AQF_oMSslahogQAAAZRch8Ag_Z3ndbUeTzIgQN-74oTR920T8_vKX7upOX9lEDjn2zH7WgDgWupME0pyQzQVDrgHU9rzwLYELVttKn3hzTrX9Xwxe8CuheygJK_CH8h64o1QoMk=&original_referer=https://app.headstarter.co/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangelica-iacovelli-490a8a1a7%2F), 
